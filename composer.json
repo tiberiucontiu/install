@@ -1,6 +1,6 @@
 {
     "name": "composer/installers",
-    "type": "composer-installer",
+    "type": "pippa-installer",
     "license": "MIT",
     "description": "A multi-framework Composer library installer",
     "keywords": [
